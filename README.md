@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 📫 How to reach me: jalpajpatel08@gmail.com
 
-😄 Pronouns: She/His
+😄 Pronouns: She/Her
 
