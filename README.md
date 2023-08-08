@@ -18,7 +18,6 @@ Strong Communication, Presentation, and Interpersonal skills with excellent prob
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on ML Algorithms in order to create an effective chatbot for my website.
 
 🌱 I’m currently learning about Data Science tools, techniques, AI, ML, NLP, and how to write.
 
