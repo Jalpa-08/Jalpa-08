@@ -29,3 +29,9 @@ Here are some ideas to get you started:
 
 😄 Pronouns: She/Her
 
+I also love working with different technologies & platforms are :
+
+❤️ SQL/MySQL
+❤️ Python
+❤️ PowerBI
+❤️ Tableau
