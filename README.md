@@ -1,10 +1,10 @@
 ### Hi, I am Jalpa 👋
 
 
-Hi I'm Jalpa Desai, working as a Data Science Trainer @Bit Infotech at Baroda, Gujarat, INDIA.
+Hi I'm Jalpa Desai, working as a Data Science Trainer @Bit Baroda at Baroda, Gujarat, INDIA.
 Overall having 15 years of experience in helping clients with their business requirements delivery through data acquisition,pee-processing,validation,and driving insights through machine learning model developments, KPI reporting and driving business to a higher level.
 
-Having good knowledge of  Python, SQL, AWS, AZURE, SNOWFLAKE, ML, DL, NLP, Computer Vision, PowerBI & Tableau.
+Having good knowledge of  Python,R, SQL, AWS, AZURE, SNOWFLAKE, ML, DL, NLP, Computer Vision, PowerBI & Tableau.
 
 Having an Advanced understanding of statistical, algebraic, and other analytical techniques coupled with various programming languages and am highly motivated to learn, grow and excel in the Data Science Industry.
 
@@ -19,7 +19,7 @@ Strong Communication, Presentation, and Interpersonal skills with excellent prob
 Here are some ideas to get you started:
 
 
-🌱 I’m currently learning about Data Science tools, techniques, AI, ML, NLP, and how to write.
+🌱 I’m currently working on Data Science tools, techniques, Generative AI, ML, DLand NLP
 
 👯 I’m looking to collaborate on written content and building communities
 
@@ -30,8 +30,9 @@ Here are some ideas to get you started:
 😄 Pronouns: She/Her
 
 I also love working with different technologies & platforms are :
-
+❤️ Generative AI
 ❤️ SQL/MySQL
 ❤️ Python
 ❤️ PowerBI
 ❤️ Tableau
+❤️ R-Programming
