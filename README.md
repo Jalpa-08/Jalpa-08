@@ -4,7 +4,7 @@
 Hi I'm Jalpa Desai, working as a Data Science Trainer @Bit Baroda at Baroda, Gujarat, INDIA.
 Overall having 15 years of experience in helping clients with their business requirements delivery through data acquisition,pre-processing,validation,and driving insights through machine learning model developments, KPI reporting and driving business to a higher level.
 
-Having good knowledge of  Python,R, SQL, AWS, AZURE, SNOWFLAKE, ML, DL, NLP, Computer Vision, PowerBI & Tableau.
+Having good knowledge of  Python,R, SQL, AWS,SNOWFLAKE, ML, DL, NLP, Computer Vision,Generative AI, Agentic AI PowerBI & Tableau.
 
 Having an Advanced understanding of statistical, algebraic, and other analytical techniques coupled with various programming languages and am highly motivated to learn, grow and excel in the Data Science Industry.
 
