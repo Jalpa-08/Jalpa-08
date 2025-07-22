@@ -41,4 +41,4 @@ I also love working with different technologies & platforms are :
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Jalpa-08&show_icons=true&theme=radical&hide=issues,contribs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jalpa-08&layout=compact&theme=radical)
+
