@@ -30,9 +30,13 @@ Here are some ideas to get you started:
 😄 Pronouns: She/Her
 
 I also love working with different technologies & platforms are :
+❤️ Agentic AI
 ❤️ Generative AI
 ❤️ SQL/MySQL
 ❤️ Python
 ❤️ PowerBI
 ❤️ Tableau
+❤️ Alteryx
 ❤️ R-Programming
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Jalpa-08&show_icons=true&theme=radical&hide=issues,contribs)
